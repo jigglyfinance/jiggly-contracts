@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/secrets.json
+/scripts/
+/build/
+/test/
+/accounts.json
+/truffle-config.js
+.DS_Store
